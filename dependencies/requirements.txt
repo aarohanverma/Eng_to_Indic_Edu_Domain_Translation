@@ -1,0 +1,10 @@
+datasets==3.5.0
+evaluate==0.4.3
+mosestokenizer==1.2.1
+nltk==3.9.1
+numpy==2.2.4
+pandas==2.2.3
+peft==0.15.1
+sacrebleu==2.5.1
+torch==2.6.0
+transformers==4.51.0
